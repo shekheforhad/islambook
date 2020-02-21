@@ -1,2 +1,2 @@
-<cent># islambook</center>
+# islambook
 Bangladesh Islam share 
