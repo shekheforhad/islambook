@@ -1,0 +1,14 @@
+<style>
+body {
+  background-image: url('https://shekheforhad.github.io/islambook/alquran/qm2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.content{
+width: 50%;
+padding: 50px;
+margin: 40px auto;}
+p{
+font-siz: 100px;
+color: green;}
+</style>
