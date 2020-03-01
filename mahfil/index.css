@@ -1,0 +1,18 @@
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-attachment: fixed;}
+
+.menu{
+font-size: 55;
+color: green;}
+
+b{
+font-size: 25;
+color: blue;}
+
+h{
+font-size: 100;
+align-type: center;
+background-color: green;
+color: pink;}
