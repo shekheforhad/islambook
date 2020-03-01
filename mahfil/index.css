@@ -3,6 +3,11 @@ body {
   background-size: cover;
   background-attachment: fixed;}
 
+
+h{font-size: 100;
+background-color: skyblue;
+color: green;}
+
 .menu{width: 100%;
 padding: 10px;
 margin: 10px auto;
@@ -13,8 +18,3 @@ b{
 font-size: 25;
 color: black;}
 
-h{
-font-size: 100;
-align-type: center;
-background-color: green;
-color: pink;}
