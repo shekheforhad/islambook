@@ -1,11 +1,13 @@
-body {
+*{margin:0;}
+
+body {margin:auto;width: 1000px;
   background-image: url('background.jpg');
   background-size: cover;
   background-attachment: fixed;}
 
 
-h{font-size: 100;
-background-color: skyblue;
+.header{width: 100%; height: 100px;
+background-image: url("1hj.png");
 color: green;}
 
 .menu{width: 100%;
@@ -16,7 +18,8 @@ color: green;}
 a{display:block;padding:8px;text-decoration:none;font-weight:500;}
 a:hover{background:lightblue;}
 
-b{
+.footer{text-align: center;
+background: skyblue; border: 3px solid black;
 font-size: 25;
 color: black;}
 
