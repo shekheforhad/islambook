@@ -18,7 +18,7 @@ color: green;}
 a{display:block;padding:8px;text-decoration:none;font-weight:500;}
 a:hover{background:lightblue;}
 
-.footer{text-align: center;
+.footer{text-align: center;padding: 15px;
 background: skyblue; border: 3px solid black;
 font-size: 25;
 color: black;}
