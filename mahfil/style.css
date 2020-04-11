@@ -13,7 +13,7 @@ body {margin:auto;width: 1000px;
 
 
 .main_menu{margin:auto;padding: 10px;width:100%;overflow: hidden;}
-.menu{margin:auto;padding: 15px;width:100%; text-align: center;border: 3px solid #ddd;}
+.menu{margin:15px;padding: 1px;width:100%; text-align: center;border: 3px solid #ddd;}
 .leftmenu{width: 45%; border: 1px solid #ddd; float: left;
 padding: 10px;
 margin: 10px auto;
