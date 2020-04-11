@@ -7,12 +7,13 @@ body {margin:auto;width: 1000px;
 
 
 .header img{width: 100%; height: 100px;margin-left: 10px;}
+.header a{padding:0;}
 
  .slide img{width: 100%; height:100px;margin-left: 10px;}
 
 
-.main_menu{padding: 10px;width: 100%;overflow: hidden;}
-
+.main_menu{margin:auto;padding: 10px;width:100%;overflow: hidden;}
+.menu{margin:auto;padding: 15px;width:100%; text-align: center;border-bottom: 3px solid #ddd;}
 .leftmenu{width: 45%; border: 1px solid #ddd; float: left;
 padding: 10px;
 margin: 10px auto;
