@@ -31,10 +31,12 @@ a{font-size: 22px;}
 a{display:block;padding:8px;text-decoration:none;font-weight:500;}
 a:hover{background:lightblue; color: green;}
 
+#footer{width: 100%;}
+.footer_blocks{padding:20px 20px;overflow:hidden;}
+.fblock{width:270px;float:left;padding-right:10px;margin: 10px; text-align:center;border: 2px solid #ddd;margin-left: 10px;}
 
-
-#footer{text-align: center; padding: 15px; width: 100%;
-background: skyblue; border: 3px solid black;
+.copyright{background:skyblue;text-align: center; padding: 15px;
+background: skyblue; border: 2px solid #ddd;
 font-size: 25;
-color: black;}
+color: black;margin-left: 10px;}
 
