@@ -13,7 +13,7 @@ body {margin:auto;width: 1000px;
 
 
 .main_menu{margin:auto;padding: 10px;width:100%;overflow: hidden;}
-.menu{margin:auto;padding: 15px;width:100%; text-align: center;border-bottom: 3px solid #ddd;}
+.menu{margin:auto;padding: 15px;width:100%; text-align: center;border: 3px solid #ddd;}
 .leftmenu{width: 45%; border: 1px solid #ddd; float: left;
 padding: 10px;
 margin: 10px auto;
@@ -36,8 +36,7 @@ a:hover{background:lightblue; color: green;}
 .footer_blocks{padding:20px 20px;overflow:hidden;}
 .fblock{background:lightblue;width:270px;float:left;padding-right:10px;margin: 10px; text-align:center;border: 2px solid #ddd;margin-left: 10px;}
 
-.copyright{background:skyblue;text-align: center; padding: 15px;
-background: skyblue; border: 2px solid #ddd;
+.copyright{background:skyblue;text-align: center; padding: 15px;border: 2px solid #ddd;
 font-size: 25;
-color: black;margin-left: 10px;}
+color: blue;margin-left: 10px;}
 
