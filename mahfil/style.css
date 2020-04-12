@@ -6,14 +6,15 @@ body {margin:auto;width: 1000px;
   background-attachment: fixed;}
 
 
-.header img{width: 100%; height: 100px;margin-left: 10px;}
-.header a{padding:0;}
+.header img{width: 1000px; height: 100px;padding:0px;margin-left: 10px;position: fixed;}
+.header a{padding:0px;}
 
- .slide img{width: 100%; height:100px;margin-left: 10px;}
+ .slide img{width: 100%; height:100px;margin-left: 10px;padding-top: 50px;}
 
 
-.main_menu{margin:auto;padding: 10px;width:100%;overflow: hidden;}
-.menu{margin:15px;padding: 1px;width:100%; text-align: center;border: 3px solid #ddd;}
+.main_menu{margin:auto;padding: 10px;width:1000px;overflow: hidden;}
+.menu{margin:30px 9px;padding: 10px 0px;width:1000px; text-align: center;border: 1px solid #ddd;}
+
 .leftmenu{width: 45%; border: 1px solid #ddd; float: left;
 padding: 10px;
 margin: 10px auto;
@@ -32,11 +33,11 @@ a{font-size: 22px;}
 a{display:block;padding:8px;text-decoration:none;font-weight:500;}
 a:hover{background:lightblue; color: green;}
 
-#footer{width: 100%;}
-.footer_blocks{padding:20px 20px;overflow:hidden;}
-.fblock{background:lightblue;width:270px;float:left;padding-right:10px;margin: 10px; text-align:center;border: 2px solid #ddd;margin-left: 10px;}
+#footer{}
+.footer_blocks{width: 1000px;margin:30px 30px;overflow:hidden;}
+.fblock{background:skyblue;width:300px;float:left; text-align:center;border: 2px solid #ddd;margin-left: 13px;padding: 15px 0px;}
 
-.copyright{background:skyblue;text-align: center; padding: 15px;border: 2px solid #ddd;
+.copyright{width:1000px;background:skyblue;text-align: center; padding: 15px 0px;border: 2px solid #ddd;
 font-size: 25;
-color: blue;margin-left: 10px;margin-bottom: 0px;}
+color: blue;margin:0px 9px;}
 
