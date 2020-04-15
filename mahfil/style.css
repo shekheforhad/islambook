@@ -5,11 +5,11 @@ body {margin:auto;width: 1000px;
   background-size: cover;
   background-attachment: fixed;}
 
-
+marquee{color: green; margin-top: 25px;}
 .header img{width: 1000px; height: 100px;padding:0px;margin-left: 10px;position: fixed;}
 .header a{padding:0px;}
 
- .slide img{width: 100%; height:100px;margin-left: 10px;padding-top: 50px;}
+ .slide img{width: 100%; height:100px;margin-left: 10px;padding-top: 25px;}
 
 
 .main_menu{margin:auto;padding: 10px;width:1000px;overflow: hidden;}
