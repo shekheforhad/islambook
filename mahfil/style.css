@@ -32,7 +32,7 @@ color: green;}
 
 a{font-size: 22px;}
 a{display:block;padding:8px;text-decoration:none;font-weight:500;}
-a:hover{background:lightblue; color: green;}
+a:hover{background:skyblue; color: green;}
 
 #footer{}
 .footer_blocks{width: 1000px;margin:30px 30px;overflow:hidden;}
